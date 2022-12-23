@@ -17,7 +17,7 @@ export default siteConfig({
   description: '技术驱动生产',
 
   // social usernames (optional)
-  twitter: 'MIAIONE',
+  twitter: '',
   github: 'MIAIONE',
   linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
